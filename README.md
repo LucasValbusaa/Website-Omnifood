@@ -1,6 +1,6 @@
 # Website para delivery de comida saudável.
 
-## Esse Website foi o projeto final desenvolvido no curso [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+### Esse Website foi o projeto final desenvolvido no curso [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 ### — Hero
 ![Screenshot](img/screenshots/screenshot-01.png)
